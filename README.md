@@ -3,6 +3,11 @@
 > **IF A MODULE IN MY REPO ISN'T LISTED BELOW THEN IT'S NOT WORKING** <br>
 > <i>(e.g., TokyoInsider, AnimeFenix)</i>
 
+> [!TIP]
+> **I recommend using the [Sora Module Library](https://sora.jm26.net/library) - it offers a large collection of modules and is easy to use**
+
+
+
 # Anime/Movie/TV sources for [Sora](https://github.com/cranci1/Sora)
 
 <div align="center"> 
