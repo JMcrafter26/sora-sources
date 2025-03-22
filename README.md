@@ -4,7 +4,7 @@
 > <i>(e.g., TokyoInsider, AnimeFenix)</i>
 
 > [!TIP]
-> **I recommend using the [Sora Module Library](https://sora.jm26.net/library) - it offers a large collection of modules and is easy to use**
+> **I recommend using the [Sora Module Library](https://sora.jm26.net/library) - it offers a large collection of modules,  is easy to use and is frequently updated**
 
 
 
