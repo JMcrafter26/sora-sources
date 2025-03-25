@@ -12,5 +12,6 @@
     "baseUrl": "https://api.anilibria.tv/",
     "searchBaseUrl": "https://api.anilibria.tv/v3/title/search?search=%s",
     "scriptUrl": "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/anilibria/anilibria.js",
-    "asyncJS": true
+    "asyncJS": true,
+    "type": "anime"
 }

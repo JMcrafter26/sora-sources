@@ -12,5 +12,6 @@
     "baseUrl": "https://telugumv.fun/",
     "searchBaseUrl": "https://telugumv.fun/?s=%s",
     "scriptUrl": "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/telugumv/telugumv.js",
-    "asyncJS": true
+    "asyncJS": true,
+    "type": "movies/shows"
 }

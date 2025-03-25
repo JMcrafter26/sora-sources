@@ -11,5 +11,6 @@
     "quality": "720p",
     "baseUrl": "https://animebalkan.org//",
     "searchBaseUrl": "https://animebalkan.org/?s=%s",
-    "scriptUrl": "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/animebalkan/animebalkan.js"
+    "scriptUrl": "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/animebalkan/animebalkan.js",
+    "type": "anime"
 }

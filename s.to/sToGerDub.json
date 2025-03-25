@@ -13,5 +13,6 @@
     "searchBaseUrl": "https://s.to/ajax/seriesSearch?keyword=%s",
     "scriptUrl": "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/s.to/sToGerDub.js",
     "asyncJS": true,
-    "streamAsyncJS": false
+    "streamAsyncJS": false,
+    "type": "movies/shows"
 }

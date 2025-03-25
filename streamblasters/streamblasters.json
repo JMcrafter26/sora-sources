@@ -12,5 +12,6 @@
     "baseUrl": "https://streamblasters.pm/t",
     "searchBaseUrl": "https://streamblasters.pm/?s=%s",
     "scriptUrl": "https://github.com/50n50/sources/raw/refs/heads/main/streamblasters/streamblasters.js",
-    "asyncJS": true
+    "asyncJS": true,
+    "type": "movies/shows"
 }

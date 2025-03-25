@@ -12,5 +12,6 @@
     "baseUrl": "https://animeunity.so",
     "searchBaseUrl": "https://www.animeunity.so/archivio?title=%s",
     "scriptUrl": "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/animeunity/animeunity.js",
-    "streamAsyncJS": true
+    "streamAsyncJS": true,
+    "type": "anime"
 }

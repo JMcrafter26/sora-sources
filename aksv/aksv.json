@@ -12,5 +12,6 @@
     "baseUrl": "https://ak.sv/",
     "searchBaseUrl": "https://ak.sv/search?q=%s",
     "scriptUrl": "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/aksv/aksv.js",
-    "streamAsyncJS": true
+    "streamAsyncJS": true,
+    "type": "movies/shows"
 }

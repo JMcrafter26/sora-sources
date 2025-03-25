@@ -12,5 +12,6 @@
     "baseUrl": "https://megacloud.club/",
     "searchBaseUrl": "https://aniwatch-api-one-rosy.vercel.app/aniwatch/search?keyword=%s",
     "scriptUrl": "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/aniwatch/aniwatch.js",
-    "asyncJS": true
+    "asyncJS": true,
+    "type": "anime"
 }

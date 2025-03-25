@@ -13,5 +13,6 @@
     "searchBaseUrl": "https://aniwatch-api-one-rosy.vercel.app/aniwatch/search?keyword=%s",
     "scriptUrl": "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/aniwatchSUBS/aniwatchSUBS.js",
     "asyncJS": true,
-    "softsub": true
+    "softsub": true,
+    "type": "anime"
 }

@@ -12,5 +12,6 @@
     "baseUrl": "https://tamilarasan.com/",
     "searchBaseUrl": "https://tamilarasan.com/?s=%s",
     "scriptUrl": "https://github.com/50n50/sources/raw/refs/heads/main/tamilarasan/tamilarasan.js",
-    "asyncJS": true
+    "asyncJS": true,
+    "type": "movies/shows"
 }

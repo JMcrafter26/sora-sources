@@ -12,5 +12,6 @@
     "baseUrl": "https://animefenix2.tv/",
     "searchBaseUrl": "https://animefenix2.tv/directorio/anime?q=%s",
     "scriptUrl": "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/animefenix/animefenix.js",
-    "steeamAsyncJS": true
+    "steeamAsyncJS": true,
+    "type": "anime"
 }

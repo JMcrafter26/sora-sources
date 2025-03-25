@@ -12,5 +12,6 @@
     "baseUrl": "https://111.90.159.132/",
     "searchBaseUrl": "https://111.90.159.132/?s=%s",
     "scriptUrl": "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/onlinemovieshindi/onlinemovieshindi.js",
-    "asyncJS": true
+    "asyncJS": true,
+    "type": "movies/shows"
 }
